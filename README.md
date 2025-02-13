@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nix and python
 - 😄 Pronouns: she/her
 
-- Nerdy gal looking to make all her code she will ever write open for the world. 
+- Nerdy gal looking to make all the code she will ever write open for the world. 
 
 
 

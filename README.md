@@ -1,5 +1,5 @@
 ## Hello! 
-My name is **Amy**, I am a metallurgical engineering student who is very interested in many STEM fields. 
+I am a metallurgical engineering student who is very interested in many STEM fields. 
 
 I aim to make any code I write for projects, research or configuration publicly available here.
 Currently learning nix to configure my operating system, and python for machine learning applications in engineering.
